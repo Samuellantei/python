@@ -1,3 +1,4 @@
+# printing i 10 times until the argument is met
 i = 0
 while(i < 10):
     i = i + 1
